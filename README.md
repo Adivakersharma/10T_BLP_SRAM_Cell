@@ -1,6 +1,6 @@
 # 10T_BLP_SRAM_Cell
 
-### This Repositery shows Data Dependent Power Supply 10T SRAM cell
+### This Repository shows Data Dependent Power Supply 10T SRAM cell
 1. [Abstract](#Abstract)
 
 2. [Synopsys Custom Compiler Tool Details](#Synopsys-Custom-Compiler-Tool-Details)
